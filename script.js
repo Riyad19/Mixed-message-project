@@ -9,7 +9,7 @@ first_Message = ["Rise and Grind!",
 "If you want it to happen, get off your butt and make it happen.",
 "Change your mind! Change your life.",
 "Take full ownership of your time, your mind, your day.",
-"you gotta change or nothing changes.",
+"You gotta change or nothing changes.",
 "If we gon' be champions, process driven!"
 ]
 
@@ -47,3 +47,10 @@ final_Message = ["Show up EVERYDAY",
 "I will do whatever it takes",
 "Where do you start? Right HERE! when do you start? RIGHT NOW!"
 ]
+
+const randomMessage1 = first_Message[(Math.floor(Math.random() * (first_Message.length)))];
+console.log(randomMessage1);
+const randomMessage2 = second_Message[(Math.floor(Math.random() * (second_Message.length)))];
+console.log(randomMessage2);
+const randomMessage3 = final_Message[(Math.floor(Math.random() * (final_Message.length)))];
+console.log(randomMessage3);
