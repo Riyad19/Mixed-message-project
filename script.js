@@ -1,46 +1,49 @@
-let message = "Get it done today! Attack it! Destroy it and get it DONE!";
-"if you want it to happen get off your butt and make it happen"
-"Rise and Grind"
-"No such thing as tomorrow, we only got today!"
-"I will do whatever it takes"
-"you gotta go all in"
-"you don't belong at the bottom! get to where you're supposed to be"
-"stop being a lazy bum ass person thats full of excuses"
-"you are the reason why you're not winning"
-"change your mind! Change your life"
-"Where do you start? Right HERE! when do you start? RIGHT NOW!"
-"you gotta get comfortable being uncomfortable"
-"you cant get the end result without the grind"
-"People who do stuff consistently and on time, they surpass people who talented and gifted"
-"stop waiting for something to move you, and move yourself"
-"you gotta move YOU!"
-"you control your mood, you control your feelings"
-"Yo bruh, what are you doing, wake up, its your time, lets go"
-"you can't just talk about it, you gotta be about it"
-"how does the lion become the king of the jungle? his MENTALITY!"
-"Mental toughness: Decide, Commit, act, succeed, Repeat"
-"No more excuses"
-"you gotta change or nothing changes"
-"do not take the easy way out"
-"while the other guys sleeping, im working!"
-"don't stop when you're tired, stop when you're done"
+first_Message = ["Rise and Grind!",
+"Take control of your life!",
+"Take control of your feelings!",
+"Yo bruh, what are you doing, wake up, its your time, lets go!",
+"Attack the day without mercy.",
+"You got work to do! It's grind season!",
+"Get it done today! Attack it! Destroy it and get it DONE!",
+"Stop waiting for something to move you, and move yourself!",
+"If you want it to happen, get off your butt and make it happen.",
+"Change your mind! Change your life.",
+"Take full ownership of your time, your mind, your day.",
+"you gotta change or nothing changes.",
 "If we gon' be champions, process driven!"
-"Time waits for no-one"
-"You will not outwork me"
-"Show up EVERYDAY"
-"Work hard EVERYDAY"
-"Hustle EVERYDAY"
-"Improve EVERYDAY"
-"Keep Grinding"
-"when your feelings tell you no, you tell them to shut the fuck up"
-"I do not stop"
-"no ones coming to do the hard work for you!"
-"take control of your feelings"
-"take control of your life"
-"there is no shortcut to excellence"
-"take full ownership of your time, your mind, your day"
-"Attack the day without mercy"
-"I will not stop"
-"you got work to do! it's grind season"
-"We do not retreat! we do not give up! we do not surrender!"
-console.log(message);
+]
+
+second_Message = ["You don't belong at the bottom! Get to where you're supposed to be!",
+"Stop being a lazy bum ass person thats full of excuses.",
+"You are the reason why you're not winning.",
+"You gotta get comfortable being uncomfortable!",
+"You cant get the end result without the grind!",
+"People who do stuff consistently and on time, they surpass people who talented and gifted.",
+"You control your mood! You control your feelings!",
+"You can't just talk about it, you gotta be about it!",
+"How does the lion become the king of the jungle? His MENTALITY!",
+"Mental toughness: Decide, Commit, Act, Succeed, Repeat.",
+"Do not take the easy way out.",
+"While the other guys sleeping, i'm working!",
+"Don't stop when you're tired, stop when you're done!",
+"Time waits for no-one!",
+"When your feelings tell you no, you tell them to SHUT THE FUCK UP!",
+"No ones coming to do the hard work for you!",
+"There is no shortcut to excellence."]
+
+final_Message = ["Show up EVERYDAY",
+"Work hard EVERYDAY",
+"Hustle EVERYDAY", 
+"Improve EVERYDAY",
+"Keep GRINDING!",
+"I will not stop!",
+"I do not stop!",
+"No more excuses!",
+"You gotta move YOU!",
+"You gotta go all in!",
+"You will NOT outwork me!",
+"We do NOT retreat! We do NOT give up! We do NOT surrender!",
+"No such thing as tomorrow, we only got today!",
+"I will do whatever it takes",
+"Where do you start? Right HERE! when do you start? RIGHT NOW!"
+]
